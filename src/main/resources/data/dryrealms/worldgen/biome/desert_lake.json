@@ -1,0 +1,70 @@
+{
+  "temperature": 1.8,
+  "downfall": 0.0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 15124874,
+    "fog_color": 15785392,
+    "water_color": 5223359,
+    "water_fog_color": 1993594
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:husk",
+        "weight": 80,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_cactus_desert"
+    ],
+    []
+  ]
+}

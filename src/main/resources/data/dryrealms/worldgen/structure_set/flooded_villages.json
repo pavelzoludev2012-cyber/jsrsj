@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "dryrealms:flooded_village_plains",
+      "weight": 1
+    },
+    {
+      "structure": "dryrealms:flooded_village_desert",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 8,
+    "salt": 84520117
+  }
+}
